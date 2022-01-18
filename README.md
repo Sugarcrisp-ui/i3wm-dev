@@ -1,1 +1,1 @@
-# i3wm-dev
+# i3wm

@@ -13,6 +13,10 @@ set -e
 
 find Personal/ -name "*.sh" -execdir chmod +x {} +
 
+mv ~/i3wm* ~/i3wm
+
+cd ~/i3wm
+
 cd Personal
 
 sh 100-display-manager*

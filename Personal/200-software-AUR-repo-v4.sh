@@ -49,7 +49,7 @@ authy
 brave
 #cryptomator-bin
 expressvpn
-#github-desktop-bin
+github-desktop-bin
 gnome-disk-utility
 #gtkhash
 ice-dev
